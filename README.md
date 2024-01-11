@@ -15,14 +15,14 @@
 <br>
 <div align="center">  
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=davidalmd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="David Almeida github stats" /> 
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalmd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalmd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="David Almeida most used languages" />
 </div>
 <div align="center">
-   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidalmd&theme=nightowl&hide_border=false" />
+   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidalmd&theme=nightowl&hide_border=false" alt="David Almeida streak stats" />
 </div>
 <br>
 
-### Main Skills:
+### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
