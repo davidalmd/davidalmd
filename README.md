@@ -23,12 +23,19 @@
 <br>
 
 ### Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React.Js](https://img.shields.io/badge/React.Js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeStript](https://img.shields.io/badge/TypeScript-%2320232a.svg?logo=typescript&style=flat&logoColor=3178C6)
+![NodeJs](https://img.shields.io/badge/Node.js-%2320232a.svg?logo=nodedotjs&style=flat&logoColor=339933)
+![React.Js](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![NextJS](https://img.shields.io/badge/Next.Js-black?style=flat&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=flat&logoColor=white)
+![.Net](https://img.shields.io/badge/.Net-white?style=flat&logo=dotnet&logoColor=512BD4)
+![C#](https://img.shields.io/badge/C_Sharp-512BD4?logo=csharp&style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2320232a.svg?logo=python&style=flat&logoColor=3776AB)
 
 <div align="right">
   <img width="25%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
