@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/davidalmeid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:david.almeida2707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white"/></a>
   <a href="https://discord.gg/EcMXTFbkKP" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/davidlucaseu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/daviddlucaas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="http://lattes.cnpq.br/0200562549233793" target="_blank"><img src="https://img.shields.io/badge/Lattes-3365A3.svg?logo=Litecoin&logoColor=white"/></a>
 </div>
 
