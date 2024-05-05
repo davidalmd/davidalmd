@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b9df1&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+👋🏼;+My+name+is+David+Almeida;I'm+20+years+old;I'm+from+Brazil;I'm+doing+Software+Engineering+college+👨🏼‍🎓;Be+Welcome!+💙;Olá!+👋🏼;+Meu+nome+é+David+Almeida;Eu+tenho+20+anos+de+idade;Sou+brasileiro;Faço+faculdade+de+Engenharia+de+Software+👨🏼‍🎓;Seja+Bem-vindo!+💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b9df1&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+👋🏼;+My+name+is+David+Almeida;I'm+20+years+old;I'm+from+Brazil;I'm+doing+Software+Engineering+college+👨🏼‍🎓;I+currently+work+as+a+Junior+Development+Analyst+💻;Be+Welcome!+💙;Olá!+👋🏼;+Meu+nome+é+David+Almeida;Eu+tenho+20+anos+de+idade;Sou+brasileiro;Faço+faculdade+de+Engenharia+de+Software+👨🏼‍🎓;Trabalho+atualmente+como+Analista+de+Desenvolvimento+Jr+💻;Seja+Bem-vindo!+💙)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://linkedin.com/in/davidalmeid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
