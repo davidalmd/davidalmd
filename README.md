@@ -17,9 +17,6 @@
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=davidalmd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="David Almeida github stats" /> 
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalmd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="David Almeida most used languages" />
 </div>
-<div align="center">
-   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidalmd&theme=nightowl&hide_border=false" alt="David Almeida streak stats" />
-</div>
 <br>
 
 ### Languages and Tools:
